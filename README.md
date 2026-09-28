@@ -1,6 +1,6 @@
-# AutoSync LLC website
+# Border City Key & Tune website
 
-A static multipage website for AutoSync LLC. It uses plain HTML, CSS, and a small JavaScript file, so GitHub Pages can serve it directly from the repository root.
+A static multipage website for Border City Key & Tune. It uses plain HTML, CSS, and a small JavaScript file, so GitHub Pages can serve it directly from the repository root.
 
 ## Local preview
 
@@ -12,5 +12,5 @@ In the repository's **Settings → Pages**, choose **Deploy from a branch**, sel
 
 ## Business details
 
-The site lists car key services, ECU programming, PCM programming, vehicle tuning, phone 519-992-5092, and email Makina2445@outlook.com. It also describes the independent Windsor business and its origin story. Update the HTML files if these details change.
+The site lists car key services, ECU programming, PCM programming, vehicle tuning, phone 519-992-5092, and email Makina2445@outlook.com. It also describes the independent Windsor-Essex business and its origin story. Update the HTML files if these details change.
 
